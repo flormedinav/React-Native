@@ -1,12 +1,21 @@
 {
   "cSpell.words": [
+    "accion",
     "Basicos",
     "boton",
     "direccion",
+    "Operacion",
     "pais",
     "pasarle",
     "renderizado",
     "renderizar",
     "Tipado"
-  ]
+  ],
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "html.completion.attributeDefaultValue": "singlequotes",
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // "prettier.singleAttributePerLine": true
 }
